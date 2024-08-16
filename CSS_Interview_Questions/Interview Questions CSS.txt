@@ -1,0 +1,71 @@
+
+CSS Basic Interview Questions
+
+1.What is CSS?
+2.Why do we use CSS?
+3.What are the advantages of CSS?
+4.What is the Box model in CSS? Which CSS properties are a part of it?
+5.How to include CSS in the webpage?
+6.What are the different types of Selectors in CSS?
+7.What is the current version of CSS?
+8.Name some CSS frameworks. 
+9.What is meant by RGB stream?
+10.What is the difference between a class and an ID?
+11.What is the syntax for CSS?
+12.How is CSS different from CSS 3?
+13.Which type of CSS holds the highest priority?
+14.How can we add comments in CSS?
+15.What does the ‘a’ in rgba mean?
+16.What are CSS HSL Colors?
+17.What are CSS backgrounds, list the properties?
+18.what are CSS Positions, list the properties?
+19.What are the different CSS border properties?
+20.What does margin: 40px 100px 120px 80px signify?
+21.What is the difference between margin and padding?
+22.How can we format text in CSS?
+23.What are the different CSS link states?
+24.How can we hide an element in CSS?
+25.What is the difference between display: none and visibility: hidden?
+26.What are the different types of selectors in CSS?
+
+
+Intermediate Interview Questions
+
+
+1.Define z-index.
+2.Can we overlap elements in CSS?
+3.What is CSS overflow?
+4.What does the CSS float property do?
+5.What are pseudo-classes in CSS?
+6.What is a responsive web design?
+7.What are the differences between adaptive design and responsive design?
+8.What are the properties of Flexbox?
+9.How is border-box different from content-box?
+10.When should translate () be used instead of absolute positioning?
+11.What are the Differences between CSS flexbox and CSS grid?
+12.How do you create a CSS animation?
+13.How can a responsive navigation menu be made with CSS?
+14.How do you create a sticky header using CSS?
+15.How can we vertically center a text in CSS?
+16.Can we add 2D transformations to our project using CSS?
+17.What is CSS Grid?
+18.What is the best way to include a CSS file? Why use @import?
+19.What is @keframes used for?
+20.What is meant by universal selector?
+21.What is CSS Image reflection?
+22.What is !important?
+23.How is opacity specified in CSS3?
+
+
+Advanced Interview Questions
+
+1.How can CSS performance be optimized for faster page loading?
+2.What are CSS preprocessors? Name a few popular ones.
+3.How do you create a multi-column layout in CSS?
+4.Explain the concept of CSS specificity and inheritance.
+5.Describe the concept of flexbox and its advantages over traditional CSS layouts.
+6.What are the CSS units vw and vh used for and how do they work?
+7.How do you create a custom CSS animation using keyframes?
+8.What are CSS pseudo-classes and pseudo-elements and how do they differ?
+9.How do you create a CSS-only sticky table header that remains visible during vertical scrolling?
+
