@@ -1,0 +1,67 @@
+
+HTML Basic Interview Questions
+
+
+1.What is html?
+2.What are HTML tags?
+3.What are HTML attributes?
+4.What is an element in HTML?
+5.What are different types of lists in HTML?
+6.What is the difference between HTML and HTML 5?
+7.What is !DOCTYPE?
+8.What are elements and tags, and what are the differences between them?
+9.What are the various heading tags and their importance?
+10.How do you add an image to a web page?
+11.How to create a link in HTML?
+12.What is the use of the target attribute in the <link> tag?
+13.What is the use of alt attribute in images?
+14.What is the current version of HTML?
+15.Do all HTML tags have an end tag?
+16.What is semantic HTML?
+17.How to create a nested webpage in HTML?
+18.Explain the layout of HTML?
+19.How many tags can be used to separate a section of texts?
+20.What is the use of a span tag? Give one example.
+21.Can we display a web page inside a web page or Is nesting of webpages possible?
+22.What are the various formatting tags in HTML?
+23.In how many ways you can display HTML elements?
+24.In how many ways can we specify the CSS styles for the HTML element?
+25.How to include JavaScript code in HTML?
+26.Are <b> and <strong> tags same? If not, then why?
+27.What is the purpose of the alt attribute in the <img> tag?
+28.What is the <div> tag used for?
+29.What are the different types of form input fields in HTML?
+
+
+HTML Intermediate Questions
+
+
+1.How do you display a table in an HTML webpage?
+2.What are HTML Entities?
+3.How do we insert a comment in HTML?
+4.What is the difference between the id and class attributes?
+5.What are the differences between inline, inline-block, and block display values in CSS
+6.What is the viewport meta tag, and why is it important?
+7.Explain the concept of HTML forms and how data submission works.
+8.What are the HTML tags used to display a table?
+9.What is the advantage of collapsing white space?
+10.What are the tags that can be used inside the <head> tag?
+11.What are meta tags? How are they important?
+12.How can we add symbols in HTML?
+13.What is the difference between cell padding and cell spacing?
+14.What is the difference between SVG and Canvas HTML5 elements?
+15.How to redirect to a particular section of a page using HTML?
+
+
+
+HTML Advanced Questions
+
+1.What is the difference between canvas and svg, and when would you use one over the other?
+2.What is the ‘class' attribute in HTML?
+3.What is the difference between HTML and XHTML?
+4.What is the difference between LocalStorage and SessionStorage Objects?
+5.What are web workers in HTML5?
+6.What is URL Encoding? Why are URLs encoded in HTML?
+
+
+
