@@ -1,0 +1,85 @@
+JavaScript Basic Interview Questions
+
+1.What are the different data types present in javascript?
+2.What are the features of JavaScript?
+3.What are the advantages of JavaScript over other web technologies?
+4.Explain Hoisting in javascript.
+5.Difference between “ == “ and “ === “ operators.
+6.Difference between var and let keyword in javascript.
+7.What is NaN, isNan property in JavaScript?
+8.What is an Immediately Invoked Function in JavaScript?
+9.Explain Higher Order Functions in javascript.
+10.Explain “this” keyword.
+11.Explain call(), apply() and, bind() methods.
+12.What are JavaScript Data Types? 
+13.Which symbol is used for comments in JavaScript? 
+14.What would be the result of 3+2+”7″?
+15.Is it possible to break JavaScript Code into several lines?
+16.What are undeclared and undefined variables?
+16.What are global variables? How are these variables declared,
+17.What do you mean by NULL in JavaScript?
+18.How do you create an object in JavaScript?
+19.How do you create an array in JavaScript?
+20.What are some of the built-in methods in JavaScript?
+21.What is the difference between undefined value and null value?
+22.How do you debug a JavaScript code?
+23.What are the ways of adding JavaScript code in an HTML file?
+24.What are the scopes of a variable in JavaScript?
+25.What is JavaScript?
+
+
+Intermediate Interview Questions
+
+1.Explain Closures in JavaScript.
+2.How to create a function in JavaScript?
+3.Difference between Client side JavaScript and Server side JavaScript?
+4.What's the difference between event.preventDefault() and event.stopPropagation() methods in JavaScript?
+5.What is Callback in JavaScript?
+6.What is the difference between View state and Session state?
+7.What are the pop-up boxes available in JavaScript?
+8.How to handle exceptions in JavaScript?
+9.How to validate a form in JavaScript?
+10.What is the role of a strict mode in JavaScript?
+11.What are the arrow functions in JavaScript?
+12.What are Imports and Exports in JavaScript?
+13.What is the difference between Session storage and Local storage?
+14.Implicit Type Coercion in javascript (in detail with examples)
+15.Is javascript a statically typed or a dynamically typed language?
+16.Passed by value and passed by reference 
+17.Types of errors in javascript
+18.Use of a constructor function (with examples)
+19.Rest parameter and spread operator
+20.Promises in JavaScript
+21.Classes in JavaScript
+22.What is Object Destructuring? (with examples)
+23.Difference between Async/Await and Generators 
+24.What is Lexical Scoping?
+25.What are the falsy values in JavaScript, and how can we check if a value is falsy?
+
+
+Advanced Interview Questions
+
+1.How do you empty an array in JavaScript?
+2.How do you remove duplicates from a JavaScript array?
+3.What does var myArray = [[]]; statement declares?
+4.What is an event bubbling in JavaScript?
+5.What is recursion in a programming language?
+6.What is DOM?
+7.Which method is used to retrieve a character from a certain index
+8.In JavaScript, how many different methods can you make an object?
+9.What are generator functions?
+10.Explain WeakSet in javascript.
+11.What is Object Destructuring?
+12.What is the use of a Date object in JavaScript?
+13.What is the use of a Map object in JavaScript?
+14.Explain about the array Method?
+15.Explain about the Array Iteration Methods?
+16.Explain about the Array Sort Methods?
+17.Is Javascript single-threaded?
+18.Explain about the synchronous and asynchronous
+19.Explain about the the Map methods
+20.ES5 Vs ES6: What is the Difference
+
+
+
+
