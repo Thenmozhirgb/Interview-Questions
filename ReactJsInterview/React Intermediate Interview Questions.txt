@@ -1,0 +1,52 @@
+React Intermediate Interview Questions
+
+1.How to create components in React?
+2.What is conditional rendering in React?
+3.What is react router?
+4.Explain the components of a react-router
+5.Explain the lifecycle methods of components
+6.What is the use of ref in React?
+7.What are hooks in React?
+8.Explain the useState hook in React?
+9.Explain the useEffect hook in react?
+10.How to use styles in ReactJS?
+11.Explain the useContext hook in react?
+12.Explain the useReducer hook in react?
+13.Explain the useMemo hook in react?
+14.Explain the useRef hook in react?
+15.What is prop drilling and its disadvantages?
+16. What is custom hooks in React?
+17.How to optimize a React code?
+18.What is context API?
+19.Explain provider and consumer in ContextAPI?
+20.Explain CORS in React?
+21.What are Pure Components?
+22.What are Higher-Order Components?
+23.What is Lifting State Up in React?
+24.What is reconciliation?
+25.What are fragments?
+26.How events are different in React?
+27.Why should component names start with capital letter?
+28.Why you can't update props in React?
+29.What is the use of render() in React?
+
+
+
+Advanced Interview Questions
+
+1.What is axios and how to use it in React?
+2.What is react-redux?
+3.Explain the core components of react-redux?
+4.What is the difference between useref and createRef in React ?
+5.How do you memoize a component?
+6.How you implement Server Side Rendering or SSR?
+7.What are React Mixins?
+8.How to focus an input element on page load?
+9.What is the purpose of push() and replace() methods of history?
+10.How is React different from React Native?
+
+
+
+
+
+
